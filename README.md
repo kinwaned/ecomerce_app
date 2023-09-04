@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![app](https://github.com/kinwaned/ecomerce_app/assets/75176487/2492617b-cb27-4cc5-96f1-43eb32fa3efd)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
